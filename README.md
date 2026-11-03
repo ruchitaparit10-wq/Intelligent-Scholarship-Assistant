@@ -1,2 +1,2 @@
 # Intelligent-Scholarship-Assistant
-This project helps to student find out the suitable  scholarship ......
+A Web-based intelligent Scholarship recommendation system using python Flask.
